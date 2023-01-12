@@ -380,10 +380,10 @@ p {
     background: url('../img/home2.jpg') no-repeat;
     background-size: cover;
 }
-.top_cont_outer:before{content:'';position:absolute;top:0;width:100%;z-index:5;background: rgba(23, 26, 29, 0.85);height:100%;bottom:0;}
+.top_cont_outer:before{content:'';position:absolute;top:0;width:100%;z-index:5;background: rgba(8, 8, 8, 0.85);height:100%;bottom:0;}
 .hero_section {
     position: relative;
-    padding-top: 72px;
+    padding-top: 70px;
     z-index: 5;
 }
 
@@ -400,7 +400,7 @@ p {
 }
 
 .top_left_cont {
-    padding: 110px 0;
+    padding: 25px 0;
 }
 
 .top_left_cont h3 {
@@ -475,7 +475,7 @@ a.read_more:hover {
 
 #service {
     padding: 60px 0px;
-    background: #CA8400;
+    background: #151326;
 }
 #service h2{
   color: #fff;
@@ -786,7 +786,7 @@ img {
 
 
 .client_logos {
-    background: #585858;
+    background: #151326;
     padding: 60px 0;
     margin-top: 60px;
 }
@@ -1240,7 +1240,7 @@ border: 1px solid #CE1139;
 ---------------------------------*/
 
 .footer_wrapper {
-    background: #2D2D2D;
+    background: #151326;
 }
 
 .footer_bottom {
