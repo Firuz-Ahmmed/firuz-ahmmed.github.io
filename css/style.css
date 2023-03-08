@@ -172,7 +172,7 @@ figure.effect-oscar p {
 figure.effect-oscar:hover h2 {
 	-webkit-transform: translate3d(0,0,0);
 	transform: translate3d(0,0,0);
-	color: #FEB11E;
+	color: #57c4cc;
 }
 
 figure.effect-oscar:hover figcaption::before,
